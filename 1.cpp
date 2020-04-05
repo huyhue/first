@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
+ok bay
 int main(){
 	char c='a'; int i=1; long l=1000;
 	float f=0.5f; double d=12.809;
